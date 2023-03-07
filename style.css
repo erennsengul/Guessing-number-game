@@ -1,0 +1,55 @@
+body{
+    background-color:aliceblue !important;
+}
+
+
+.content{
+    color: whitesmoke;
+    width: 50%;
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    background-color: #202020;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+#title{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.hearts{
+    position: relative;
+    left: 89%;
+    color: red;
+    font-size: 24px;
+}
+
+.heartsBlack{
+    position: relative;
+    left: 89%;
+    color: black;
+    font-size: 24px;
+}
+
+#btn-guess{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#result{
+    color: crimson;
+    margin-top: 20px;
+    text-align: center;  
+    font-size: large;
+}
+
+#btn-again{
+    display: none;
+    margin-top: 10px;
+}
+
+.underTitle{
+    color: crimson;
+}
